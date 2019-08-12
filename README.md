@@ -1,6 +1,6 @@
 # snowbank
 A python package to easily manage and integrate snowbank apis 
 
-# INSTALLATION 
+# Installation  
 
-''' pip install snowbank '''
+``` pip install snowbank ```
