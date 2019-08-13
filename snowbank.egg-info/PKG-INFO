@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: snowbank
+Version: 0.1
+Summary: Python Package to integrate lightning network cpapbility
+Home-page: https://github.com/syoolah/snowbank
+Author: Pranoy Dev
+Author-email: devpranoy@gmail.com
+License: UNKNOWN
+Description: # snowbank
+        A python package to easily manage and integrate snowbank apis 
+        
+        # Installation  
+        
+        ``` pip install snowbank ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
