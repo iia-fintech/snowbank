@@ -5,6 +5,10 @@ A python package to easily manage and integrate snowbank apis
 
 ``` pip install snowbank ```
 
+
+Goto the snowbank website https://www.snowbank.me login and get your developer token, use the token for authentication.
+
+
 # Status Codes 
 
 
